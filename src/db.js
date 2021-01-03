@@ -45,7 +45,7 @@ let comments = [{
     post: '10'
 }, {
     id: '104',
-    text: 'This did no work.',
+    text: 'This did  work.',
     author: '2',
     post: '11'
 }, {
